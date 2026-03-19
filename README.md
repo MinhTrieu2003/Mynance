@@ -1,1 +1,1 @@
-This is a small project created for learning distributed systems and practing system design.
+This is a small project created for learning distributed systems and practicing system designs.
